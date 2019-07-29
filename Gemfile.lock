@@ -33,7 +33,7 @@ DEPENDENCIES
   colorize
   csv
   pry
-  rubocop (~> 0.57.2)
+  rubocop
 
 RUBY VERSION
    ruby 2.6.3p62
